@@ -39,7 +39,7 @@ microservices, and banking applications.
 - Loan Collection – Phase I & II
 - Authentication Service
 - Admin Service
-- 
+- Dispute Management Service
 - Notification Service
 - File Management Service
 
