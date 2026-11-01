@@ -43,7 +43,7 @@ microservices, and banking applications.
 - Notification Service
 - File Management Service
 
-### 4. 3rd Bank – Mobile App
+### 4. 4th Bank – Mobile App
 **Completed Features:**
 - Open new account
 - Saving Service
